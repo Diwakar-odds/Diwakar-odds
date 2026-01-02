@@ -1,4 +1,5 @@
-# 💫 About Me:
+#                                                                               I'm Diwakar Chaurasia
+###UnderGraduate Student at Kanpur Institute of Technology 
 🔭 I’m currently working on Ai Assistant<br>👯 I’m looking to collaborate on AI/ML , Data Science Projects<br>🤝 I’m looking for help with creating my Tech Journey<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me about<br>⚡ I am B.tech 3rd year CSE student 
 
 
@@ -24,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Diwakar-odds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
