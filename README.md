@@ -1,6 +1,7 @@
-#                                                                               I'm Diwakar Chaurasia
-### UnderGraduate Student at Kanpur Institute of Technology 
-# 
+<h1 align="center">Heyy Everyone 👋, I'm Diwakar</h1>
+
+### UnderGraduate Student at Kanpur Institute of Technology
+
 
 <br>🔭 I’m currently working on Ai Assistant<br>👯 I’m looking to collaborate on AI/ML , Data Science Projects<br>🤝 I’m looking for help with creating my Tech Journey<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me about<br>⚡ I am B.tech 3rd year CSE student 
 
