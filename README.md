@@ -1,7 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+
+<!-- 💻 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=800&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;B.Tech+3rd+Year+CSE" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Heyy Everyone 👋, I'm Diwakar</h1>
 
-### UnderGraduate Student at Kanpur Institute of Technology
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diwakar-odds&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Diwakar-odds?label=Follow&style=social" />
+</p>
 
 <br>🔭 I’m currently working on Ai Assistant<br>👯 I’m looking to collaborate on AI/ML , Data Science Projects<br>🤝 I’m looking for help with creating my Tech Journey<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me about<br>⚡ I am B.tech 3rd year CSE student 
 
@@ -24,6 +33,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diwakar-odds&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+## 🌟 3D Contribution Graph
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Diwakar-odds?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Diwakar-odds&icon=0&color=0)](https://visitcount.itsvg.in)
