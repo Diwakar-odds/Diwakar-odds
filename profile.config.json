@@ -1,0 +1,114 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Diwakar Chaurasia",
+    "username": "Diwakar-odds",
+    "headline": "AI & Full-Stack Developer | Builder",
+    "affiliation": "KIT",
+    "location": "India",
+    "status": "B.Tech 3rd Year CSE Student",
+    "about": [
+      "I'm a B.Tech 3rd-year CSE student at KIT, passionate about building real-world solutions using Full-Stack Web Development, Machine Learning, and Data Science.",
+      "I love exploring emerging technologies — from AI assistants to cybersecurity."
+    ]
+  },
+  "research": {
+    "primary": "AI & Machine Learning",
+    "direction": "Building Real-World Solutions",
+    "themes": "AI Assistants / Web Dev / Cybersecurity",
+    "narrative": "I'm interested in building real-world software by combining Full-Stack Web Development, Machine Learning, and Data Science."
+  },
+  "focus": [
+    {
+      "name": "AI / ML Enthusiast",
+      "description": "Exploring Machine Learning, Deep Learning, and building AI Assistants."
+    },
+    {
+      "name": "Full-Stack Web Developer",
+      "description": "Building solutions using React, Node.js, and modern web technologies."
+    },
+    {
+      "name": "Open Source Contributor",
+      "description": "Participating in global programs like GSSoC, ECSoC, and NSoC."
+    }
+  ],
+  "projects": [
+    {
+      "name": "EduFlow",
+      "url": "https://github.com/Diwakar-odds/EduFlow",
+      "homepage": "",
+      "focus": "Productivity",
+      "summary": "Student productivity platform for managing notes, resources & tasks.",
+      "heroLabel": "Hackathon Project"
+    },
+    {
+      "name": "HerCycle AI",
+      "url": "https://github.com/Diwakar-odds/hercycle-ai",
+      "homepage": "",
+      "focus": "Health Tech",
+      "summary": "AI-powered period tracking & PCOD risk prediction for Indian women.",
+      "heroLabel": "AI Application"
+    },
+    {
+      "name": "MeetOnMemory",
+      "url": "https://github.com/Diwakar-odds/MeetOnMemory",
+      "homepage": "",
+      "focus": "Productivity & AI",
+      "summary": "AI-powered meeting management with semantic search & automated summaries.",
+      "heroLabel": "AI System"
+    },
+    {
+      "name": "CivicPulse",
+      "url": "https://github.com/Diwakar-odds/CivicPulse",
+      "homepage": "",
+      "focus": "Civic Engagement",
+      "summary": "Civic engagement platform built using Gemini Studio.",
+      "heroLabel": "Gemini AI"
+    }
+  ],
+  "techStack": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "PyTorch",
+    "TensorFlow",
+    "MongoDB",
+    "PostgreSQL",
+    "Git",
+    "GitHub"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "Diwakar-odds",
+      "url": "https://github.com/Diwakar-odds",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Diwakar Chaurasia",
+      "url": "https://linkedin.com/in/diwakar-chaurasia2530",
+      "logo": "linkedin",
+      "color": "0077B5"
+    },
+    {
+      "label": "Portfolio",
+      "value": "Visit",
+      "url": "https://diwakarr-portfolio.netlify.app",
+      "logo": "netlify",
+      "color": "00C7B7"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Made with ❤️ by Diwakar Chaurasia"
+}
