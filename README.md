@@ -1,6 +1,7 @@
 <h1 align="center">Heyy Everyone 👋, I'm Diwakar</h1>
+<h3 align="center">AI & Full-Stack Developer | Building Real-World Solutions | Exploring Data Science, ML & Cybersecurity</h3>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=900&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=900&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG"/>
   <br/>
 </h2>
 
@@ -19,6 +20,14 @@
 <p align="center">
   I'm a B.Tech 3rd-year Computer Science & Engineering student at KIT passionate about building real-world solutions using AI, Machine Learning, and Data Science. I love exploring new technologies and am currently working on an AI Assistant.
 </p>
+
+- 🔭 I'm currently working on **AI Assistant**
+- 👯 I'm looking to collaborate on **AI/ML & Data Science Projects**
+- 🤝 I'm looking for help with **creating my Tech Journey**
+- 🌱 I'm currently learning **Machine Learning & Deep Learning**
+- 💬 Ask me about **Python, React, Machine Learning, Web Development**
+- ⚡ Fun fact: I am a **B.Tech 3rd year CSE student** who loves building cool stuff!
+- 🌐 Check out my portfolio: **[diwakarr-portfolio.netlify.app](https://diwakarr-portfolio.netlify.app)**
 
 ---
 
