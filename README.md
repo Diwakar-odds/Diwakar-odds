@@ -1,10 +1,10 @@
-<h1 align="center">Heyy Everyone ≡ƒæï, I'm Diwakar</h1>
+<h1 align="center">Heyy Everyone 👋, I'm Diwakar</h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=800&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=900&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG" />
   <br/>
 </h2>
 
-<h1 align="center"><font color="#20F7F7">Mirror mirror on the wall. I'll always get up after I fall and whether I run, walk or crawl, I'll set my goals and achieve them all.</font></h1>
+<h1 align="center">Mirror mirror on the wall. I'll always get up after I fall and whether I run, walk or crawl, I'll set my goals and achieve them all.</h1>
 
 <p align="center">
   <picture>
@@ -22,7 +22,7 @@
 
 ---
 
-## ≡ƒ¢á∩╕Å Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 <p align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-## ≡ƒîƒ Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@
 
 ---
 
-## ≡ƒôè GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -97,7 +97,7 @@
 
 ---
 
-## ≡ƒîƒ 3D Contribution Graph
+## 🌟 3D Contribution Graph
 
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/Diwakar-odds?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" alt="3D Contribution Graph" />
@@ -105,7 +105,7 @@
 
 ---
 
-## ≡ƒÉì Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Diwakar-odds/Diwakar-odds/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -113,7 +113,7 @@
 
 ---
 
-### ≡ƒîÉ Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/diwakar-chaurasia2530" target="_blank">
@@ -134,5 +134,4 @@
 </p>
 
 ---
-<p align="center">Made with Γ¥ñ∩╕Å by Diwakar</p>
-
+<p align="center">Made with ❤️ by Diwakar</p>
