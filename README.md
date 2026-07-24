@@ -1,6 +1,11 @@
-﻿<h1 align="center">Heyy Everyone ≡ƒæï, I'm Diwakar</h1>
+<h1 align="center">Heyy Everyone ≡ƒæï, I'm Diwakar</h1>
 <h3 align="center">B.Tech 3rd Year CSE Student | AI / ML Enthusiast</h3>
-<h1 align="center">Mirror mirror on the wall. I'll always get up after I fall and whether I run, walk or crawl, I'll set my goals and achieve them all.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=800&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG" />
+  <br/>
+</p>
+
+<h1 align="center"><font color="#20F7F7">Mirror mirror on the wall. I'll always get up after I fall and whether I run, walk or crawl, I'll set my goals and achieve them all.</font></h1>
 
 <p align="center">
   <picture>
@@ -10,10 +15,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-f9395346-light.svg">
     <img src="./assets/hero/agent-console-f9395346-dark.svg" alt="Diwakar Chaurasia - AI & Full-Stack Developer | Builder" width="100%">
   </picture>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20F7F7&center=true&vCenter=true&width=800&lines=UnderGraduate+Student+%40+KIT;AI+%2F+ML+Enthusiast;Working+on+AI+Assistant;Data+Science+Learner" alt="Typing SVG" />
-  <br/>
 </p>
 
 <p align="center">
