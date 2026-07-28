@@ -85,6 +85,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diwakar-odds&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+<br/>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diwakar-odds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Diwakar's GitHub Stats" />
   </a>
